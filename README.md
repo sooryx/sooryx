@@ -7,22 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/sooryajith" target="blank"><img src="https://img.shields.io/twitter/follow/sooryajith?logo=twitter&style=for-the-badge" alt="sooryajith"  </p>
 
-- 🔭 I’m currently working on **BetterMeal Flutter App**
+First and foremost, I love writing code. My journey began in class XI when I built my first interactive mobile app, igniting a lifelong passion for development. A cup of coffee is all it takes to fuel my creativity and drive me to excel on any project.
 
-- 🌱 I’m currently learning **Machine Learning for Food and Health Scores**
+I'm fascinated by how technology works and admire the minds behind it.
 
-- 💬 Ask me about **Flutter, Dart, Firebase, REST API integration**
-
-- 📫 How to reach me **sooryajithsajeev5@gmail.com**
-
-- ⚡ Fun fact **I love exploring new technologies and simplifying in-app purchase workflows!**
+Every project is a chance to combine creativity with technical skill, crafting mobile apps that are user-friendly, responsive, and visually appealing. My dedication to innovation drives me to constantly push the limits of what can be achieved with Flutter.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sooryajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sooryajith" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sooryajith-sajeev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sooryajith-sajeev" height="30" width="40" /></a>
-<a href="https://instagram.com/sooryajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sooryajith" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sooryajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sooryajith" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/sooryajith5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sooryajith-sajeev" height="30" width="40" /></a>
+<a href="https://instagram.com/sooryx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sooryajith" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
