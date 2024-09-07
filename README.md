@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sooryajith&label=Profile%20views&color=0e75b6&style=flat" alt="sooryajith" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sooryajith" target="blank"><img src="https://img.shields.io/twitter/follow/sooryajith?logo=twitter&style=for-the-badge" alt="sooryajith"  </p>
+<p align="left"> <a href="https://linkedin.com/in/sooryajith5" target="blank"><img src="https://img.shields.io/twitter/follow/sooryajith?logo=twitter&style=for-the-badge" alt="sooryajith"  </p>
 
 First and foremost, I love writing code. My journey began in class XI when I built my first interactive mobile app, igniting a lifelong passion for development. A cup of coffee is all it takes to fuel my creativity and drive me to excel on any project.
 
